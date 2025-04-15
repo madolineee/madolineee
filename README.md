@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Karen Madoline A. Cabrillos!
 
-<p align="center">
-  <img src="https://your-custom-banner-url.com/banner.png" alt="Karen Madoline Cabrillos Banner" style="width:100%; max-height:200px; border-radius: 5px;"/>
-</p>
-
 Welcome to my GitHub! I'm a BSIT student with a passion for Software Technologies. I'm always exploring new challenges and learning new things in the world of software development, web & mobile app development, and digital marketing.
 
 ---
